@@ -7,7 +7,13 @@
 * Trečioji eilutė susideda iš *, tarpo, pasisveikinimo, tarpo ir vėl *.
 * Ketvirta ir penkta eilutės bus analogiškos antrąjai ir pirmąjąi.
 
-# Versijų istorija
+## Programos paleidimas terminale
+
+* Suformuoti paleidžiamąjį failą: `make`
+* Paleisti programą: `make test`
+* Ištrinti paleidžiamąjį failą `make clean`
+
+## Versijų istorija
 
 ### [v1.0](https://github.com/Elijus99/1-uzd.-pasisveikinimas/releases/tag/v1.0) - (2019-02-11)
 
