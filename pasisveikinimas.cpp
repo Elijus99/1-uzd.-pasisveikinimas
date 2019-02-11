@@ -28,7 +28,10 @@ duomenys ivedimas(duomenys A)
 }
 void lentele(duomenys A)
 {
-	int size = 14;
+	string pasisveikinimas;
+	if (A.vardas.back() == 's') pasisveikinimas = "Sveikas, " + A.vardas + "!";
+	else pasisveikinimas = "Sveika, " + A.vardas + "!";
+	int size = pasisveikinimas.size() + 12;
 	for (int i = 0; i < size; i++)
 	{
 		cout << "*";
@@ -43,6 +46,17 @@ void lentele(duomenys A)
 		}
 		cout << "*" << endl;
 	}
+	cout << "*";
+	for (int i = 0; i < 5; i++)
+	{
+		cout << " ";
+	}
+	cout << pasisveikinimas;
+	for (int i = 0; i < 5; i++)
+	{
+		cout << " ";
+	}
+	cout << "*" << endl;
 	for (int i = 0; i < A.dydis; i++)
 	{
 		cout << "*";
