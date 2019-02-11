@@ -31,14 +31,14 @@
 
 * Atnaujintas README failas
 
-### [v0.2](https://github.com/Elijus99/1-uzd.-pasisveikinimas/releases/tag/v0.2) - (2018-02-11)
+### [v0.2](https://github.com/Elijus99/1-uzd.-pasisveikinimas/releases/tag/v0.2) - (2019-02-11)
 
 **Pridėta**
 
 * Programa atpažįsta įvesto vardo lytį, pagal tai keičiasi pasisveikinimas.
 * Lentelės ilgis keičiasi pagal įvesto vardo ilgį.
 
-### [v0.1](https://github.com/Elijus99/1-uzd.-pasisveikinimas/releases/tag/v0.1) - (2018-02-11)
+### [v0.1](https://github.com/Elijus99/1-uzd.-pasisveikinimas/releases/tag/v0.1) - (2019-02-11)
 
 **Pridėta**
 
