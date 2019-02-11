@@ -15,6 +15,12 @@
 
 ## Versijų istorija
 
+### [v1.0.1](https://github.com/Elijus99/1-uzd.-pasisveikinimas/releases/tag/v1.0.1) - (2019-02-11)
+
+**Koreguota**
+
+* Atnaujintas README failas
+
 ### [v1.0](https://github.com/Elijus99/1-uzd.-pasisveikinimas/releases/tag/v1.0) - (2019-02-11)
 
 **Papildyta**
